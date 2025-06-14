@@ -1,3 +1,10 @@
+/**
+ * @description       : 
+ * @author            : Amit Singh - PantherSchools
+ * @group             : 
+ * @last modified on  : 07-10-2024
+ * @last modified by  : Amit Singh - PantherSchools
+**/
 public with sharing class CaseTriggerHandler {
 
     public static void handleAfterInsert(List<Case> newRecords) {
